@@ -5,7 +5,7 @@ public class audio : MonoBehaviour
 {
     [SerializeField] private AudioMixer audioMixer;  //der AudioMixer, der die Lautstärke regelt
     [SerializeField] private Slider musicSlider;    //der Slider, der die Lautstärke regelt
-    [SerializeField] private Slider sfxSlider;      //der Slider, der die Lautstärke der Soundeffekte regelt (noch nicht implementiert)
+    [SerializeField] private Slider sfxSlider;      //der Slider, der die Lautstärke regelt
     private void Start()
     {
         if (PlayerPrefs.HasKey("musicVolume"))   //wenn es einen gespeicherten Wert für die Lautstärke gibt, wird dieser geladen
