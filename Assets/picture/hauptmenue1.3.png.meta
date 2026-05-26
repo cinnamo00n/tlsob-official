@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c1f7c0fb4d60b2d43a3a13039937cbfd
+guid: 5ebbbe645e4a655409d8a1964c7205d4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2458488944597825811
-    second: "einstellungsmen\xFC 1.1_0"
+      213: 4669452618350811789
+    second: hauptmenue1.3_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "einstellungsmen\xFC 1.1_0"
+      name: hauptmenue1.3_0
       rect:
         serializedVersion: 2
-        x: 259
-        y: 86
-        width: 1295
-        height: 916
+        x: 0
+        y: 0
+        width: 1877
+        height: 1056
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3197af26bae4e1220800000000000000
-      internalID: 2458488944597825811
+      spriteID: d8a5154aa6a3dc040800000000000000
+      internalID: 4669452618350811789
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "einstellungsmen\xFC 1.1_0": 2458488944597825811
+      hauptmenue1.3_0: 4669452618350811789
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
