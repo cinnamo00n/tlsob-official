@@ -2233,7 +2233,6 @@ RectTransform:
   m_Children:
   - {fileID: 218580081}
   - {fileID: 1354310366}
-  - {fileID: 2066128353}
   m_Father: {fileID: 801249747}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -2281,9 +2280,9 @@ MonoBehaviour:
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
   m_Interactable: 1
-  m_TargetGraphic: {fileID: 677291959}
+  m_TargetGraphic: {fileID: 0}
   m_FillRect: {fileID: 510299667}
-  m_HandleRect: {fileID: 677291958}
+  m_HandleRect: {fileID: 0}
   m_Direction: 0
   m_MinValue: 0
   m_MaxValue: 1
@@ -2466,8 +2465,6 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 1821133837}
-  - {fileID: 1815276143}
   - {fileID: 300382701}
   m_Father: {fileID: 801249747}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2517,7 +2514,7 @@ MonoBehaviour:
     m_DisabledTrigger: Disabled
   m_Interactable: 1
   m_TargetGraphic: {fileID: 147918307}
-  m_FillRect: {fileID: 645176165}
+  m_FillRect: {fileID: 0}
   m_HandleRect: {fileID: 147918306}
   m_Direction: 0
   m_MinValue: 0
@@ -2554,8 +2551,7 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 824399656}
+  m_Children: []
   m_Father: {fileID: 1895210043}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.25}
@@ -2591,12 +2587,10 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 921122694}
   - {fileID: 1969620946}
   - {fileID: 464658416}
   - {fileID: 1623637403}
   - {fileID: 997469719}
-  - {fileID: 1542522329}
   m_Father: {fileID: 1487994999}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -3433,7 +3427,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!212 &1623637402
 SpriteRenderer:
   serializedVersion: 2
@@ -3808,7 +3802,6 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 1653046307}
   - {fileID: 1254755952}
   - {fileID: 1532573512}
   m_Father: {fileID: 801249747}
@@ -3859,7 +3852,7 @@ MonoBehaviour:
     m_DisabledTrigger: Disabled
   m_Interactable: 1
   m_TargetGraphic: {fileID: 571563676}
-  m_FillRect: {fileID: 824399656}
+  m_FillRect: {fileID: 0}
   m_HandleRect: {fileID: 571563675}
   m_Direction: 0
   m_MinValue: 0
